@@ -1,5 +1,4 @@
 language: java
-os:
-  - linux
+os: linux
 dist: trusty
 dist: precise
